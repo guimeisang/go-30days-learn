@@ -1,10 +1,10 @@
 package main
 
 import (
-	"log",
-	"os",
-	_ "github.com/goinaction/code/chapter2/sample/matchers" // 引入github的代码
-	"github.com/goinaction/code/chapter2/sample/search" // 引入github的代码
+	"log"
+	"os"
+	_ "github.com/goinaction/code/chapter2/sample/matchers"
+	"github.com/goinaction/code/chapter2/sample/search"
 )
 
 func init(){
